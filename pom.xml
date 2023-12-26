@@ -37,7 +37,7 @@
 			    <workers>1</workers>
 			    <workerType>Micro</workerType>
 			    <applicationName>world-timezone-apii</applicationName>
-			    <password>9983886005@pu</password>
+			    <password>9983886005@Pu</password>
 			    <muleVersion>4.4.0-20230320</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
